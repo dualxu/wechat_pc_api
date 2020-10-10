@@ -84,8 +84,7 @@ if __name__ == "__main__":
 
     # 阻塞主线程
     while True:
-        time.sleep(0.5).5)
-
+        time.sleep(0.5)
 ```
 
 
