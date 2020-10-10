@@ -69,6 +69,13 @@ if __name__ == "__main__":
 - 发送文件消息： WeChatManager.send_file
 - 发送链接消息： WeChatManager.send_link
 - 发送视频消息： WeChatManager.send_video
+- 发送群@消息： WeChatManager.send_chatroom_at_msg
+- 发送名片消息：WeChatManager.send_user_card
+- 发送gif表情消息： WeChatManager.send_gif
+- 获取所有好友： WeChatManager.get_friends
+- 获取所有群组： WeChatManager.get_chatroom_members
+- 获取指定群成员： WeChatManager.get_chatroom_members
+- 获取所有公众号： WeChatManager.get_publics
 
 
 
