@@ -11,14 +11,18 @@ wechat_pc_api 使用HOOK技术将核心功能封装成dll，并提供简易的�
 
 测试可以使用语言有C/C++，C#，易语言，Python, Java, Go, NodeJs, PHP, VB, Delphi。
 
-目前支持的微信PC版本是2.8.0.121, 使用api前，先这里下载并安装[WeChatSetup_2.8.0.121.exe](https://pan.baidu.com/s/1Mg4GAzE--Qx9CMLPpvzOLA)  提取码：fg8b
+目前支持的微信PC版本是3.0.0.57, 使用api前，先这里下载并安装[WeChatSetup_3.0.0.57.exe](https://pan.baidu.com/s/1uQ9sAmHNFms6Ep-RY_WkQQ)  提取码：o6uj
 
 
 功能清单
 -----------------------------------
-- 微信多开
-- 支持收发所有类型的消息
-- 获取全部好友，群，公众号等信息
+- 任意多开
+- 支持已经在运行微信进程
+- 支持接收所有类型的消息（包括接口发送，pc电脑上直接发送的）
+- 支持获取群，群成员，好友列表，公众号列表
+- 支持常见消息类型的发送
+- 支持emoji
+ 
 
 文档
 ----------------------------
